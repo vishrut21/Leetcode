@@ -2,7 +2,7 @@ class Solution {
     public long sumAndMultiply(int n) {
         long x = 0;
         long sum = 0;
-        int p = 1;
+        long p = 1;
 
         while(n>0){
            int dig = n%10;
