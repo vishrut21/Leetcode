@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/vishrut21/Leetcode/tree/master/0130-surrounded-regions) |
+| [0283-move-zeroes](https://github.com/vishrut21/Leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishrut21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vishrut21/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishrut21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/vishrut21/Leetcode/tree/master/1927-sum-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vishrut21/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
