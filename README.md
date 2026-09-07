@@ -152,9 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/vishrut21/Leetcode/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/vishrut21/Leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/vishrut21/Leetcode/tree/master/0115-distinct-subsequences) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/vishrut21/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
