@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/vishrut21/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/vishrut21/Leetcode/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishrut21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vishrut21/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vishrut21/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
