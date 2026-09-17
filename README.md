@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/vishrut21/Leetcode/tree/master/0130-surrounded-regions) |
+| [0162-find-peak-element](https://github.com/vishrut21/Leetcode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/vishrut21/Leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishrut21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/vishrut21/Leetcode/tree/master/0704-binary-search) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/vishrut21/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/vishrut21/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/vishrut21/Leetcode/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishrut21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
