@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishrut21/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishrut21/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishrut21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2555-maximize-win-from-two-segments](https://github.com/vishrut21/Leetcode/tree/master/2555-maximize-win-from-two-segments) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishrut21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishrut21/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vishrut21/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishrut21/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2555-maximize-win-from-two-segments](https://github.com/vishrut21/Leetcode/tree/master/2555-maximize-win-from-two-segments) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vishrut21/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/vishrut21/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/vishrut21/Leetcode/tree/master/0704-binary-search) |
+| [2555-maximize-win-from-two-segments](https://github.com/vishrut21/Leetcode/tree/master/2555-maximize-win-from-two-segments) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishrut21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
