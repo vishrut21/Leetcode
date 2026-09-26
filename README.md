@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vishrut21/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vishrut21/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishrut21/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/vishrut21/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/vishrut21/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vishrut21/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishrut21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vishrut21/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vishrut21/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishrut21/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/vishrut21/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vishrut21/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2555-maximize-win-from-two-segments](https://github.com/vishrut21/Leetcode/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/vishrut21/Leetcode/tree/master/2560-house-robber-iv) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vishrut21/Leetcode/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/vishrut21/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Queue
 |  |
 | ------- |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vishrut21/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/vishrut21/Leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
