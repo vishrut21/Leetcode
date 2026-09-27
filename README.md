@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vishrut21/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishrut21/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishrut21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vishrut21/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2555-maximize-win-from-two-segments](https://github.com/vishrut21/Leetcode/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/vishrut21/Leetcode/tree/master/2560-house-robber-iv) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishrut21/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/vishrut21/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishrut21/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/vishrut21/Leetcode/tree/master/1927-sum-game) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2560-house-robber-iv](https://github.com/vishrut21/Leetcode/tree/master/2560-house-robber-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishrut21/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/vishrut21/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishrut21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishrut21/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/vishrut21/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/vishrut21/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishrut21/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/vishrut21/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vishrut21/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2555-maximize-win-from-two-segments](https://github.com/vishrut21/Leetcode/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/vishrut21/Leetcode/tree/master/2560-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishrut21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
