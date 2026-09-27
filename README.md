@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vishrut21/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishrut21/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishrut21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/vishrut21/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vishrut21/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vishrut21/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishrut21/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/vishrut21/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vishrut21/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2187-minimum-time-to-complete-trips](https://github.com/vishrut21/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vishrut21/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2555-maximize-win-from-two-segments](https://github.com/vishrut21/Leetcode/tree/master/2555-maximize-win-from-two-segments) |
