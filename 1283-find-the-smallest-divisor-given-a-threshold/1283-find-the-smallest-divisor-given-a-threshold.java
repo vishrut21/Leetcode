@@ -2,7 +2,7 @@ class Solution {
     public static boolean pos(int[] nums, int mid, int threshold){
         int calth=0;
         for(int num : nums){
-            calth += (num + mid - 1) / mid;
+            calth += Math.ceil((double)num/mid);
         }
         return calth<=threshold;
     }
