@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vishrut21/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishrut21/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/vishrut21/Leetcode/tree/master/1927-sum-game) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/vishrut21/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vishrut21/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vishrut21/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vishrut21/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vishrut21/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vishrut21/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vishrut21/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vishrut21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/vishrut21/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vishrut21/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vishrut21/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1927-sum-game](https://github.com/vishrut21/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishrut21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/vishrut21/Leetcode/tree/master/2235-add-two-integers) |
