@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/vishrut21/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vishrut21/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishrut21/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vishrut21/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2555-maximize-win-from-two-segments](https://github.com/vishrut21/Leetcode/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/vishrut21/Leetcode/tree/master/2560-house-robber-iv) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vishrut21/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/vishrut21/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishrut21/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishrut21/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishrut21/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vishrut21/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/vishrut21/Leetcode/tree/master/3731-find-missing-elements) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishrut21/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/vishrut21/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vishrut21/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishrut21/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-maximize-win-from-two-segments](https://github.com/vishrut21/Leetcode/tree/master/2555-maximize-win-from-two-segments) |
 ## Binary Search
 |  |
