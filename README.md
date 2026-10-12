@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vishrut21/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/vishrut21/Leetcode/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/vishrut21/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishrut21/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishrut21/Leetcode/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/vishrut21/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/vishrut21/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/vishrut21/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishrut21/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vishrut21/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/vishrut21/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishrut21/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishrut21/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
