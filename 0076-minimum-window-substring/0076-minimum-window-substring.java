@@ -41,7 +41,10 @@ class Solution {
 
         if(minLen == Integer.MAX_VALUE){
             return "";
-        }
+        }else{
+
+        
         return s.substring(minStart, minStart + minLen);
+        }
     }
 }
