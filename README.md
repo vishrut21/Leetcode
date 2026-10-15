@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/vishrut21/Leetcode/tree/master/2560-house-robber-iv) |
 | [2747-count-zero-request-servers](https://github.com/vishrut21/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishrut21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishrut21/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishrut21/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vishrut21/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vishrut21/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishrut21/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishrut21/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/vishrut21/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishrut21/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishrut21/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vishrut21/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/vishrut21/Leetcode/tree/master/3731-find-missing-elements) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishrut21/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishrut21/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vishrut21/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishrut21/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
