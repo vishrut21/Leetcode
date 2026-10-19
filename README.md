@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vishrut21/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishrut21/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishrut21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vishrut21/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vishrut21/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vishrut21/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vishrut21/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishrut21/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/vishrut21/Leetcode/tree/master/1927-sum-game) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vishrut21/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2560-house-robber-iv](https://github.com/vishrut21/Leetcode/tree/master/2560-house-robber-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishrut21/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/vishrut21/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishrut21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishrut21/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vishrut21/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2747-count-zero-request-servers](https://github.com/vishrut21/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3536-maximum-product-of-two-digits](https://github.com/vishrut21/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vishrut21/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vishrut21/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vishrut21/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vishrut21/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vishrut21/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vishrut21/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vishrut21/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/vishrut21/Leetcode/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/vishrut21/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/vishrut21/Leetcode/tree/master/0567-permutation-in-string) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vishrut21/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -302,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vishrut21/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishrut21/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vishrut21/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Counting
 |  |
 | ------- |
@@ -323,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vishrut21/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vishrut21/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
