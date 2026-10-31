@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishrut21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/vishrut21/Leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/vishrut21/Leetcode/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/vishrut21/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/vishrut21/Leetcode/tree/master/0567-permutation-in-string) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vishrut21/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishrut21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/vishrut21/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/vishrut21/Leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/vishrut21/Leetcode/tree/master/0143-reorder-list) |
 ## Tree
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/vishrut21/Leetcode/tree/master/0143-reorder-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishrut21/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
@@ -363,4 +366,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vishrut21/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/vishrut21/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
