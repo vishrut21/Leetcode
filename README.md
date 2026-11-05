@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/vishrut21/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vishrut21/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/vishrut21/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vishrut21/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vishrut21/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishrut21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vishrut21/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vishrut21/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishrut21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vishrut21/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vishrut21/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishrut21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishrut21/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vishrut21/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishrut21/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/vishrut21/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vishrut21/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vishrut21/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vishrut21/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vishrut21/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vishrut21/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vishrut21/Leetcode/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/vishrut21/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/vishrut21/Leetcode/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vishrut21/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vishrut21/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vishrut21/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
